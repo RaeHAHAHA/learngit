@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Merge with not fast forward mode.
 Merge with fast forward mode.
+debug done.
